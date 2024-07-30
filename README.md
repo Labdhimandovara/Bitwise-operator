@@ -1,4 +1,4 @@
-#BITWISE OPERATOR
+#BITWISEOPERATOR
 
 Aim:
 To study and implement C++ Bitwise operators
