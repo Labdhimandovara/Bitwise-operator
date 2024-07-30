@@ -20,3 +20,9 @@ int main()
     cout<<"Right shift: "<<g<<endl;
     cout<<"Left shift: "<<h<<endl;
 }
+/*AND: 1
+OR: 7
+XOR: 6
+NOT: -6
+Right shift: 1
+Left shift: 20*/
